@@ -32,12 +32,12 @@ Você pode visualizar a página clicando aqui: [ver demo](#) <!-- substitua pela
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/Carlos-Espin/social-links-profile
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd nome-do-repo
+cd social-links-profile
 ```
 
 3. Abra o arquivo `index.html` no navegador:
